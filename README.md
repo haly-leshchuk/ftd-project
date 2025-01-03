@@ -18,3 +18,6 @@ A simple PHP-based service to scrape news articles, store them in PostgreSQL, an
    ```bash
    git clone https://github.com/your-username/php-news-scraper.git
    cd php-news-scraper
+2. Make up
+3. Make dbup
+4. Make migrate
