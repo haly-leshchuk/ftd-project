@@ -1,0 +1,23 @@
+# Ignore sensitive or generated files
+.env
+vendor/
+db_data/
+test_db_data/
+.phpunit.result.cache
+
+# Ignore IDE files
+.idea/
+*.iml
+.vscode/
+
+# Node or temporary files
+node_modules/
+*.log
+
+# OS files
+.DS_Store
+.env
+
+# Docker artifacts
+docker-compose.override.yml
+*.log
